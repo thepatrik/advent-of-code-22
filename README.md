@@ -16,3 +16,5 @@ Run a visualization of day 14 (part one) with
 ```console
 $ make fourteen
 ```
+
+![Screenshot](screenshots/day14_part1.png)
